@@ -10,4 +10,4 @@ c. Third facility has a server farm including 3 Web servers, 2 FTP servers, 1 DH
 a. First facility has 5 workstation users, 10 wireless users and 5 tablet users who connect to the Internet using wireless connection, browse Web and use email applications.
 b. Second facility has 10 workstation users and 5 smartphone users. They use web browsing, editing applications and transfer files.
 c. Third facility has 10 workstations and 5 mobile devices that are used to browse Web, send and receive emails.
-If you want to reach me you can use this link:https://www.linkedin.com/in/fuat-yavrum-560a00147/?originalSubdomain=tr or instagram.com/fuatyavrum
+If you want to reach me you can use this link:linkedin.com/in/fuat-yavrum-560a00147 or instagram.com/fuatyavrum
